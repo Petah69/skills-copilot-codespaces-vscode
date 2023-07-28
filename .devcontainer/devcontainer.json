@@ -2,8 +2,8 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "name": "Codespace for fun !",
   "features": {
-    "ghcr.io/flexwie/devcontainer-features/op:1": {}
-    "ghcr.io/devcontainers-contrib/features/ansible:2": {}
+    "ghcr.io/flexwie/devcontainer-features/op:1": {},
+    "ghcr.io/devcontainers-contrib/features/ansible:2": {},
     "ghcr.io/devcontainers/features/powershell:1": {}
   },
   "customizations": {
